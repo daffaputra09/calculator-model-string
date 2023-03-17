@@ -5,7 +5,7 @@ Example
 ```
 18 + 9 =
 ```   
-  User can type `Enter` to see the result  <br> <br>
+  User can press `Enter` to see the result  <br> <br>
   
   
   Now, user's console will be like this:
