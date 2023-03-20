@@ -20,5 +20,5 @@ if user want to using calculator again, user can type  `y` or `Y` on keyboard an
   
  ---     
  ### Calculator Demo Video  
- 
- ![](https://github.com/daffaputra09/assets/blob/main/CalculatorString.gif)
+ <img src="https://github.com/daffaputra09/assets/blob/main/CalculatorString.gif" width="80%" >
+
