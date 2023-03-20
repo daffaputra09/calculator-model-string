@@ -18,3 +18,7 @@ Apakah anda ingin menghitung lagi? (Y / N):
 
 if user want to using calculator again, user can type  `y` or `Y` on keyboard and type another key to end the calculator
   
+ ---     
+ ### Calculator Demo Video  
+ 
+ ![](https://github.com/daffaputra09/assets/blob/main/CalculatorString.gif)
